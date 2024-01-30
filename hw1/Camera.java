@@ -1,5 +1,6 @@
 package hw1;
 
+
 public class Camera {
     public Point3D location;
     public Angle3D angle;
